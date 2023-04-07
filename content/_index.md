@@ -54,6 +54,10 @@ sections:
           description: 70%
           icon: globe
           icon_pack: fas
+        - name: Painting
+          description: 80%
+          icon: marker
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
