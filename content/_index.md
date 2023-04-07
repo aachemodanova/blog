@@ -46,10 +46,6 @@ sections:
     content:
       title: Skills
       items:
-        - name: Painting
-          description: 70%
-          icon: paintbrush
-          icon_pack: fab
         - name: Cooking
           description: 80%
           icon: cookie-bite
