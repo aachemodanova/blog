@@ -48,7 +48,7 @@ sections:
       items:
         - name: Painting
           description: 70%
-          icon: palette
+          icon: paintbrush
           icon_pack: fab
         - name: Cooking
           description: 80%
